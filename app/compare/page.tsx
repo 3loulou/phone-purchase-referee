@@ -171,7 +171,7 @@ export default function ComparePage() {
         </Link>
         <h1 className="text-4xl font-extrabold text-gray-900 flex items-center gap-3">
           <span className="text-4xl">🎯</span>
-          <span>AI Phone Comparison - India</span>
+          <span>AI</span>
         </h1>
         <p className="mt-3 text-lg text-gray-600">
           Set your budget and priorities. AI will pick the top 2 phones and compare them for you.
