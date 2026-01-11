@@ -1,0 +1,242 @@
+[
+    {
+        "id": "iphone-15-pro",
+        "name": "iPhone 15 Pro",
+        "price_usd": 999,
+        "specs": {
+            "battery_mah": 3274,
+            "camera_mp": 48,
+            "screen_inches": 6.1,
+            "has_5g": true,
+            "storage_gb": 128,
+            "weight_grams": 187,
+            "processor_benchmark": 92000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "iphone-15-pro-max",
+        "name": "iPhone 15 Pro Max",
+        "price_usd": 1199,
+        "specs": {
+            "battery_mah": 4422,
+            "camera_mp": 48,
+            "screen_inches": 6.7,
+            "has_5g": true,
+            "storage_gb": 256,
+            "weight_grams": 221,
+            "processor_benchmark": 92000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "samsung-s24-ultra",
+        "name": "Samsung Galaxy S24 Ultra",
+        "price_usd": 1299,
+        "specs": {
+            "battery_mah": 5000,
+            "camera_mp": 200,
+            "screen_inches": 6.8,
+            "has_5g": true,
+            "storage_gb": 256,
+            "weight_grams": 232,
+            "processor_benchmark": 88000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "samsung-s24-plus",
+        "name": "Samsung Galaxy S24+",
+        "price_usd": 999,
+        "specs": {
+            "battery_mah": 4900,
+            "camera_mp": 50,
+            "screen_inches": 6.7,
+            "has_5g": true,
+            "storage_gb": 256,
+            "weight_grams": 196,
+            "processor_benchmark": 88000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "samsung-s24",
+        "name": "Samsung Galaxy S24",
+        "price_usd": 799,
+        "specs": {
+            "battery_mah": 4000,
+            "camera_mp": 50,
+            "screen_inches": 6.2,
+            "has_5g": true,
+            "storage_gb": 128,
+            "weight_grams": 167,
+            "processor_benchmark": 88000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "pixel-8-pro",
+        "name": "Google Pixel 8 Pro",
+        "price_usd": 999,
+        "specs": {
+            "battery_mah": 5050,
+            "camera_mp": 50,
+            "screen_inches": 6.7,
+            "has_5g": true,
+            "storage_gb": 128,
+            "weight_grams": 213,
+            "processor_benchmark": 75000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "pixel-8",
+        "name": "Google Pixel 8",
+        "price_usd": 699,
+        "specs": {
+            "battery_mah": 4575,
+            "camera_mp": 50,
+            "screen_inches": 6.2,
+            "has_5g": true,
+            "storage_gb": 128,
+            "weight_grams": 187,
+            "processor_benchmark": 75000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "pixel-8a",
+        "name": "Google Pixel 8a",
+        "price_usd": 499,
+        "specs": {
+            "battery_mah": 4492,
+            "camera_mp": 64,
+            "screen_inches": 6.1,
+            "has_5g": true,
+            "storage_gb": 128,
+            "weight_grams": 188,
+            "processor_benchmark": 75000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "oneplus-12",
+        "name": "OnePlus 12",
+        "price_usd": 799,
+        "specs": {
+            "battery_mah": 5400,
+            "camera_mp": 50,
+            "screen_inches": 6.82,
+            "has_5g": true,
+            "storage_gb": 256,
+            "weight_grams": 220,
+            "processor_benchmark": 90000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "oneplus-12r",
+        "name": "OnePlus 12R",
+        "price_usd": 499,
+        "specs": {
+            "battery_mah": 5500,
+            "camera_mp": 50,
+            "screen_inches": 6.78,
+            "has_5g": true,
+            "storage_gb": 128,
+            "weight_grams": 207,
+            "processor_benchmark": 72000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "nothing-phone-2",
+        "name": "Nothing Phone (2)",
+        "price_usd": 599,
+        "specs": {
+            "battery_mah": 4700,
+            "camera_mp": 50,
+            "screen_inches": 6.7,
+            "has_5g": true,
+            "storage_gb": 128,
+            "weight_grams": 201,
+            "processor_benchmark": 65000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "motorola-edge-2024",
+        "name": "Motorola Edge 2024",
+        "price_usd": 549,
+        "specs": {
+            "battery_mah": 5000,
+            "camera_mp": 50,
+            "screen_inches": 6.6,
+            "has_5g": true,
+            "storage_gb": 256,
+            "weight_grams": 174,
+            "processor_benchmark": 60000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "samsung-a55",
+        "name": "Samsung Galaxy A55 5G",
+        "price_usd": 449,
+        "specs": {
+            "battery_mah": 5000,
+            "camera_mp": 50,
+            "screen_inches": 6.6,
+            "has_5g": true,
+            "storage_gb": 128,
+            "weight_grams": 213,
+            "processor_benchmark": 45000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "iphone-15",
+        "name": "iPhone 15",
+        "price_usd": 799,
+        "specs": {
+            "battery_mah": 3349,
+            "camera_mp": 48,
+            "screen_inches": 6.1,
+            "has_5g": true,
+            "storage_gb": 128,
+            "weight_grams": 171,
+            "processor_benchmark": 72000
+        },
+        "availability": "available",
+        "region": "US"
+    },
+    {
+        "id": "iphone-se-2024",
+        "name": "iPhone SE (2024)",
+        "price_usd": 429,
+        "specs": {
+            "battery_mah": 2018,
+            "camera_mp": 12,
+            "screen_inches": 4.7,
+            "has_5g": true,
+            "storage_gb": 64,
+            "weight_grams": 144,
+            "processor_benchmark": 72000
+        },
+        "availability": "available",
+        "region": "US"
+    }
+]

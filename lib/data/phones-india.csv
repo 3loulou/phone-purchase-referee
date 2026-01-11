@@ -1,0 +1,35 @@
+id,name,brand,price_inr,price_range,battery_mah,camera_mp,screen_inches,ram_gb,storage_gb,processor,has_5g,weight_grams,refresh_rate,fast_charging_w,display_type,os,rear_camera_details,front_camera_mp,key_features
+realme-narzo-70x,Realme Narzo 70x,Realme,12999,budget,5000,50,6.72,6,128,MediaTek Dimensity 6100+,true,188,120,45,IPS LCD,Android 14,50MP + 2MP,8,120Hz display | 45W charging
+redmi-13c,Redmi 13C,Xiaomi,9999,budget,5000,50,6.74,6,128,MediaTek Helio G85,false,192,90,18,IPS LCD,Android 13,50MP + 2MP,8,Large battery | Budget friendly
+poco-m6-5g,POCO M6 5G,POCO,11999,budget,5000,50,6.74,6,128,MediaTek Dimensity 6100+,true,195,90,18,IPS LCD,Android 13,50MP + 2MP,5,5G connectivity | Big battery
+samsung-m14-5g,Samsung Galaxy M14 5G,Samsung,13990,budget,6000,50,6.6,4,128,Exynos 1330,true,206,90,15,PLS LCD,Android 13,50MP + 2MP + 2MP,13,6000mAh battery | Samsung quality
+iqoo-z9,iQOO Z9,iQOO,19999,budget,5000,50,6.67,8,128,MediaTek Dimensity 7200,true,190,120,44,AMOLED,Android 14,50MP + 2MP,16,120Hz AMOLED | 44W charging
+realme-12-5g,Realme 12 5G,Realme,16999,budget,5000,108,6.72,8,128,MediaTek Dimensity 6100+,true,188,120,45,IPS LCD,Android 14,108MP + 2MP,8,108MP camera | 120Hz display
+nothing-phone-2a,Nothing Phone (2a),Nothing,23999,mid-range,5000,50,6.7,8,128,MediaTek Dimensity 7200 Pro,true,190,120,45,AMOLED,Android 14,50MP + 50MP,32,Unique design | Clean software
+oneplus-nord-ce-4,OnePlus Nord CE 4,OnePlus,24999,mid-range,5500,50,6.7,8,128,Snapdragon 7 Gen 3,true,186,120,100,AMOLED,OxygenOS 14,50MP + 8MP,16,100W fast charging | Smooth UI
+redmi-note-13-pro,Redmi Note 13 Pro,Xiaomi,25999,mid-range,5100,200,6.67,8,128,Snapdragon 7s Gen 2,true,187,120,67,AMOLED,Android 13,200MP + 8MP + 2MP,16,200MP camera | Premium build
+motorola-edge-50-fusion,Motorola Edge 50 Fusion,Motorola,22999,mid-range,5000,50,6.7,8,128,Snapdragon 7s Gen 2,true,175,144,68,pOLED,Android 14,50MP + 13MP,32,144Hz display | Stock Android
+samsung-a35-5g,Samsung Galaxy A35 5G,Samsung,30999,mid-range,5000,50,6.6,8,128,Exynos 1380,true,209,120,25,Super AMOLED,Android 14,50MP + 8MP + 5MP,13,4 years updates | Water resistant
+oppo-reno-12-5g,OPPO Reno 12 5G,OPPO,32999,mid-range,5000,50,6.7,8,256,MediaTek Dimensity 7300,true,177,120,80,AMOLED,ColorOS 14,50MP + 8MP + 2MP,32,Premium design | 80W charging
+vivo-v30,Vivo V30,Vivo,33999,mid-range,5000,50,6.78,8,128,Snapdragon 7 Gen 3,true,186,120,80,AMOLED,Funtouch OS 14,50MP + 50MP,50,50MP selfie | Ring light
+poco-x6-pro,POCO X6 Pro,POCO,26999,mid-range,5000,64,6.67,8,256,MediaTek Dimensity 8300 Ultra,true,186,120,67,AMOLED,Android 14,64MP + 8MP + 2MP,16,Flagship performance | Value
+iqoo-neo-9-pro,iQOO Neo 9 Pro,iQOO,35999,premium,5160,50,6.78,8,256,Snapdragon 8 Gen 2,true,190,144,120,AMOLED,Android 14,50MP + 8MP,16,Flagship chipset | 120W charging
+nothing-phone-2,Nothing Phone (2),Nothing,39999,premium,4700,50,6.7,12,256,Snapdragon 8+ Gen 1,true,201,120,45,AMOLED,Android 14,50MP + 50MP,32,Glyph interface | Premium build
+oneplus-12r,OnePlus 12R,OnePlus,39999,premium,5500,50,6.78,8,128,Snapdragon 8 Gen 2,true,207,120,100,AMOLED,OxygenOS 14,50MP + 8MP + 2MP,16,100W charging | Great display
+samsung-s23-fe,Samsung Galaxy S23 FE,Samsung,44999,premium,4500,50,6.4,8,128,Exynos 2200,true,209,120,25,Dynamic AMOLED 2X,Android 14,50MP + 8MP + 12MP,10,Samsung ecosystem | IP68
+motorola-edge-50-pro,Motorola Edge 50 Pro,Motorola,31999,premium,4500,50,6.7,12,256,Snapdragon 7 Gen 3,true,186,144,125,pOLED,Android 14,50MP + 13MP + 10MP,50,125W charging | Curved display
+google-pixel-8a,Google Pixel 8a,Google,52999,premium,4492,64,6.1,8,128,Google Tensor G3,true,188,120,18,OLED,Android 14,64MP + 13MP,13,Pixel camera | 7 years updates
+oneplus-12,OnePlus 12,OnePlus,64999,flagship,5400,50,6.82,12,256,Snapdragon 8 Gen 3,true,220,120,100,AMOLED,OxygenOS 14,50MP + 64MP + 48MP,32,Hasselblad camera | 100W charging
+samsung-s24,Samsung Galaxy S24,Samsung,74999,flagship,4000,50,6.2,8,256,Exynos 2400,true,167,120,25,Dynamic AMOLED 2X,Android 14,50MP + 10MP + 12MP,12,Compact flagship | AI features
+vivo-x100,Vivo X100,Vivo,63999,flagship,5000,50,6.78,12,256,MediaTek Dimensity 9300,true,206,120,120,AMOLED,Funtouch OS 14,50MP + 64MP + 50MP,32,Zeiss optics | Pro photography
+google-pixel-8-pro,Google Pixel 8 Pro,Google,106999,flagship,5050,50,6.7,12,128,Google Tensor G3,true,213,120,30,LTPO OLED,Android 14,50MP + 48MP + 48MP,10.5,Best AI features | 7 years updates
+iphone-15,iPhone 15,Apple,79900,flagship,3349,48,6.1,6,128,Apple A16 Bionic,true,171,60,20,Super Retina XDR OLED,iOS 17,48MP + 12MP,12,Dynamic Island | Excellent video
+samsung-s24-plus,Samsung Galaxy S24+,Samsung,99999,flagship,4900,50,6.7,12,256,Exynos 2400,true,196,120,45,Dynamic AMOLED 2X,Android 14,50MP + 10MP + 12MP,12,Large display | Premium build
+iphone-15-plus,iPhone 15 Plus,Apple,89900,flagship,4383,48,6.7,6,128,Apple A16 Bionic,true,201,60,20,Super Retina XDR OLED,iOS 17,48MP + 12MP,12,Large battery | iOS ecosystem
+vivo-x100-pro,Vivo X100 Pro,Vivo,89999,flagship,5400,50,6.78,16,256,MediaTek Dimensity 9300,true,221,120,100,AMOLED,Funtouch OS 14,50MP + 50MP + 50MP,32,Triple 50MP cameras | Pro mode
+oneplus-12-pro,OnePlus 12 Pro,OnePlus,79999,flagship,5400,50,6.82,16,512,Snapdragon 8 Gen 3,true,220,120,100,AMOLED,OxygenOS 14,50MP + 64MP + 48MP,32,512GB storage | Fast performance
+samsung-s24-ultra,Samsung Galaxy S24 Ultra,Samsung,129999,ultra-flagship,5000,200,6.8,12,256,Snapdragon 8 Gen 3,true,232,120,45,Dynamic AMOLED 2X,Android 14,200MP + 50MP + 10MP + 12MP,12,S Pen | 200MP camera | AI Pro
+iphone-15-pro,iPhone 15 Pro,Apple,134900,ultra-flagship,3274,48,6.1,8,128,Apple A17 Pro,true,187,120,20,Super Retina XDR OLED,iOS 17,48MP + 12MP + 12MP,12,Titanium | Action button | A17 Pro
+iphone-15-pro-max,iPhone 15 Pro Max,Apple,159900,ultra-flagship,4422,48,6.7,8,256,Apple A17 Pro,true,221,120,20,Super Retina XDR OLED,iOS 17,48MP + 12MP + 12MP,12,Best iPhone | 5x telephoto
+google-pixel-fold,Google Pixel Fold,Google,179999,ultra-flagship,4821,48,7.6,12,256,Google Tensor G2,true,283,120,30,Foldable OLED,Android 14,48MP + 10.8MP + 10.8MP,9.5,Foldable | Dual screens
+samsung-z-fold-5,Samsung Galaxy Z Fold 5,Samsung,154999,ultra-flagship,4400,50,7.6,12,256,Snapdragon 8 Gen 2,true,253,120,25,Dynamic AMOLED 2X,Android 14,50MP + 10MP + 12MP,10,Best foldable | S Pen support
